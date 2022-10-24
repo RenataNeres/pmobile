@@ -1,6 +1,6 @@
-import 'package:list/bd_helper.dart';
-import 'package:list/phones.dart';
-//import 'package:sqflite/sqflite.dart';
+import 'package:reh923/data/BDLista_helper.dart';
+import 'package:reh923/phones.dart';
+import 'package:sqflite/sqflite.dart';
 
 class ListaDao {
   Future<List<Phones>> listarTelefones() async {
