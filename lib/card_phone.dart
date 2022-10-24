@@ -35,7 +35,7 @@ class _PhoneCardState extends State<PhoneCard> {
                       color: Colors.black),
                 ),
                 Text(
-                  'DISQUE ${phone.number}',
+                  'DISQUE ${phone.numero}',
                   style: TextStyle(
                       fontWeight: FontWeight.bold,
                       fontSize: 15,
