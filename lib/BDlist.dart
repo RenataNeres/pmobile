@@ -1,42 +1,42 @@
-import 'package:list/phones.dart';
+import 'package:reh923/phones.dart';
 
 class BD {
   static List<Phones> lista = [
     Phones(
       text: 'Direitos Humanos',
-      number: 100,
+      numero: 100,
     ),
     Phones(
       text: 'Centro de Velorização a Vida',
-      number: 180,
+      numero: 180,
     ),
     Phones(
       text: 'Disque Denúncia',
-      number: 181,
+      numero: 181,
     ),
     Phones(
       text: 'Polícia Militar',
-      number: 190,
+      numero: 190,
     ),
     Phones(
       text: 'Ambulância Pública (SAMU)',
-      number: 192,
+      numero: 192,
     ),
     Phones(
       text: 'Corpo de Bombeiros',
-      number: 193,
+      numero: 193,
     ),
     Phones(
       text: 'Polícia Civil',
-      number: 197,
+      numero: 197,
     ),
     Phones(
       text: 'Polícia Rodoviária Estadual',
-      number: 198,
+      numero: 198,
     ),
     Phones(
       text: 'Defesa Civil',
-      number: 199,
+      numero: 199,
     ),
   ];
 
