@@ -1,11 +1,10 @@
-import 'dart:html';
-import 'package:list/BDList.dart';
+import 'package:reh923/data/BDLista.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/widgets.dart';
-import 'package:list/phones.dart';
-import 'package:list/card_phone.dart';
+import 'package:reh923/phones.dart';
+import 'package:reh923/card_phone.dart';
 
 class Lista extends StatefulWidget {
   const Lista({Key? key}) : super(key: key);
